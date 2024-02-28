@@ -2407,7 +2407,7 @@ sub footer {
 <hr>
 <address><a href="mailto:pixel@rigaux.org">Pixel</a></address>
 This document is licensed under <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> (GNU Free Documentation License).
-<p>Automatically generated from this <a href="index_pl.txt">file</a>.
+<p>Automatically generated from this <a href="https://github.com/pixel/syntax-across-languages-and-more/blob/master/scripting-language/index.html.pl">file</a>.
 
 </body>
 </html>
